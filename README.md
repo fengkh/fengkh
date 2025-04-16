@@ -7,4 +7,4 @@
 fengkh/fengkh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<figure><embed src="https://wakatime.com/share/@fa6647ff-156c-4c36-95cd-cb90f347ed39/653ad928-5538-451b-9611-947d786e23af.svg"></embed></figure>
+[![wakatime](https://wakatime.com/badge/user/fa6647ff-156c-4c36-95cd-cb90f347ed39/project/aae18990-336a-4612-88d9-73562305e91a.svg)](https://wakatime.com/badge/user/fa6647ff-156c-4c36-95cd-cb90f347ed39/project/aae18990-336a-4612-88d9-73562305e91a)
